@@ -1,0 +1,6 @@
+1. pastikan python udah keinstall ya kak di komputernya
+2. install virtual envnya, caranya buka cmd di folder ini, ketikin python -m venv venv
+3. buka virtual envnya, caranya ketikin di cmdnya venv\scripts\activate
+4. install module, caranya ketikin di cmdnya pip install flask pandas numpy scikit-learn
+5. setelah selesai, start servernya, dicmdnya ketikin python app.py
+6. setelah ada pemberitahuan server telah dimulai, buka http://127.0.0.1:5000/
